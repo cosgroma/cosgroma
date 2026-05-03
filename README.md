@@ -70,6 +70,7 @@ A good repository should make it obvious:
 `gnss` · `sdr` · `fpga` · `embedded-systems` · `sysml-v2` · `mbse` ·
 `python` · `developer-tools` · `documentation` · `automation`
 
+<!--
 ## GitHub activity
 
 These cards use public GitHub profile data. For a more complete picture of
@@ -81,7 +82,7 @@ or [`github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile
   <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cosgroma&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=transparent&hide_border=true">
   <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosgroma&layout=compact&theme=transparent&hide_border=true&langs_count=8">
 </p>
-
+-->
 <!--
 Recommended generated-stats option 1: jstrieb/github-stats
 
